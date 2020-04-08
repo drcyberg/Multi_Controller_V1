@@ -98,6 +98,10 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
+### Thingiverse: [Link](https://www.thingiverse.com/thing:4270109 "Link")
+
+---
+
 ### If you want to support me:
 
 [Donate](https://www.paypal.me/Kunee82 "Donate")
