@@ -6,7 +6,7 @@
 
 It can display: Everest stats, Speedfan stats, MBM stats (your CPU temp, fan/cooler speed, etc), BBC World News (or any other RSS feed!), WinAmp stats (currently playing tracks title, length, position, etc), Network stats (speed, total bytes, etc), CPU Speed, Disk available/free, memory usage, Email details, game stats, and many more...
 Grabs information from the kernel and some subsystems and displays it on an external liquid crystal display.
-The Multi Controller V1 modules are designed to fit into 5,25" drive bays. They contain an LCD display that is 20 characters wide and 2 lines high surrounded by 2 buttons labeled Fan+, Fan- with LED indicator and Buzzer.
+The Multi Controller V1 modules are designed to fit into 5,25" drive bays. They contain an LCD display that is 20 characters wide and 2 lines high surrounded by 2 buttons labeled Fan+, Fan- controlls with LED indicator and Buzzer, and controlls RGB Leds Strip.
 The Multi Controller V1 modules are connected to the PC using a USB connection getting operating power using the standard HDD/CD/DVD drive power connector.
 
 ---
@@ -31,6 +31,21 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 - XMMS: infos from the XMMS player
 - The output of external commands can be displayed
 - Arbitrary lines from a text file can also be displayed
+
+---
+
+### Extra Additional:
+
+- Controlls RGB Led Strip (SMD 2835 RGB; 12V/1,5A)
+- Controlls PC 2 Fan (PWM 50% or 100%; 12V/1,5A)
+- Fans LED indicator
+- Buzzer speakers for ones push button feedback
+- USB I2C switch buttons
+- USB connection
+- TX/RX LEDs indicators
+- Adjustable LCD contrast
+- Reset button
+- LCD 1602A (16X2) Display
 
 ---
 
