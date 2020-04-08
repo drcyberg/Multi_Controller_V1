@@ -34,7 +34,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Extra Additional:
+### Extra Additionals:
 
 - Controlls RGB Led Strip (SMD 2835 RGB; 12V/1,5A)
 - Controlls PC 2 Fan (PWM 50% or 100%; 12V/1,5A)
