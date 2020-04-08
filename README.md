@@ -59,3 +59,15 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 ### Gerber file: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Manufacturing/multi_controller.zip "Download")
 
 ---
+
+### 3D Models:
+
+- [Bay](https://github.com/drcyberg/Multi_Controller_V1/blob/master/stl/multi_controller.stl "Bay")
+
+---
+
+### If you want to support me:
+
+[Donate](https://www.paypal.me/Kunee82 "Donate")
+
+### Have a nice day!
