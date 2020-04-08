@@ -40,7 +40,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 - Controlls PC 2 Fan (PWM 50% or 100%; 12V/1,5A)
 - Fans LED indicator
 - Buzzer speakers for ones push button feedback
-- USB I2C switch buttons
+- USB I2C switch slide buttons
 - USB connection
 - ICSP header
 - TX/RX LEDs indicators
