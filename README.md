@@ -69,7 +69,10 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Firmware: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller.hex "Firmware") (Without Bootloader); [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller_with_bootloader.hex "Firmware") (With Bootloader)
+### Firmware:
+
+- [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller.hex "Firmware") (Without Bootloader)
+- [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller_with_bootloader.hex "Firmware") (With Bootloader)
 
 ---
 
