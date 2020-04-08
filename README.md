@@ -48,6 +48,5 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Software: [LCD Smartie](http://lcdsmartie.sourceforge.net/ "LCD Smartie")
-              [LCD Smartie](http://lcdsmartie.sourceforge.net/ "LCD Smartie")
+### Software: [LCD Smartie](http://lcdsmartie.sourceforge.net/ "LCD Smartie") [LCD Smartie](http://lcdsmartie.sourceforge.net/ "LCD Smartie")
 ---
