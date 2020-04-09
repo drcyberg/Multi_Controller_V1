@@ -84,6 +84,13 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
+### How to flash:
+
+- [Guide](https://www.arduino.cc/en/Guide/ArduinoISP "Guide")
+- [Tutorial](https://www.arduino.cc/en/tutorial/arduinoISP "Tutorial")
+
+---
+
 ### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.xlsx "Link") or [View](https://sheet.zoho.eu/sheet/published.do?rid=42dfb586242982b99419fac733a2e80385b53 "View")
 
 ---
