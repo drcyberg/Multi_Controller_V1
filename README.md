@@ -42,7 +42,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 - Buzzer speakers for ones push button feedback
 - USB I2C switch slide buttons
 - USB connection
-- ICSP header
+- ICSP header (Programming interface)
 - TX/RX LEDs indicators
 - Adjustable LCD contrast
 - Reset button
