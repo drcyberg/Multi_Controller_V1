@@ -95,7 +95,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Gerber file: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Manufacturing/multi_controller.zip "Download")
+### PCB Gerber file: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Manufacturing/multi_controller.zip "Download")
 
 ---
 
