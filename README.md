@@ -109,8 +109,8 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### If you want to support me:
+### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
 
-[Donate](https://www.paypal.me/Kunee82 "Donate")
+---
 
 ### Have a nice day!
