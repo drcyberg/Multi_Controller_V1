@@ -47,7 +47,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 - Adjustable LCD contrast
 - Reset button
 - LCD 1602A (16X2) Display
-- Atmega328P chip based
+- Based the Atmega328P chip
 
 ---
 
