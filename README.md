@@ -43,7 +43,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 - USB I2C switch slide buttons
 - USB connection
 - ICSP header (Programming interface)
-- TX/RX LEDs indicators
+- TX/RX LED indicators
 - Adjustable LCD contrast
 - Reset button
 - LCD 1602A (16X2) Display
