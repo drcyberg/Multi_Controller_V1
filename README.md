@@ -36,8 +36,8 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ### Extra Additionals:
 
-- Controlls RGB Led Strip (SMD 2835 RGB; 12V/1,5A)
-- Controlls PC 2 Fan (PWM 50% or 100%; 12V/1,5A)
+- RGB Led Strip controller (SMD 2835 RGB; 12V/1,5A)
+- PC 2 Fan controller (PWM 50% or 100%; 12V/1,5A)
 - Fans LED indicator
 - Buzzer speakers for ones push button feedback
 - USB I2C slide switch buttons
@@ -46,7 +46,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 - TX/RX LED indicators
 - Adjustable LCD contrast
 - Reset button
-- LCD 1602A (16X2) Display conne tion interface
+- LCD 1602A (16X2) Display connection interface
 - Based on the Atmega328P chip
 
 ---
