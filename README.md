@@ -102,6 +102,8 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ### 3D Model:
 
+![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.jpg)
+
 - [Bay](https://github.com/drcyberg/Multi_Controller_V1/blob/master/stl/multi_controller.stl "Bay")
 
 ---
