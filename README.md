@@ -106,6 +106,13 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 - [Bay](https://github.com/drcyberg/Multi_Controller_V1/blob/master/stl/multi_controller.stl "Bay")
 
+### Required other parts:
+
+- 8x M3 4mm screw
+- 8x M3 4mm insert nut
+- 1x M3 nut
+- 1x M3 10mm screw
+
 ---
 
 ### Thingiverse: [Link](https://www.thingiverse.com/thing:4270109 "Link")
