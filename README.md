@@ -53,20 +53,20 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ### Samples:
 
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/1.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/2.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/3.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/8.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/7.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/6.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/5.jpg)
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/9.jpg)
+![](/Documents/1.jpg)
+![](/Documents/2.jpg)
+![](/Documents/3.jpg)
+![](/Documents/8.jpg)
+![](/Documents/7.jpg)
+![](/Documents/6.jpg)
+![](/Documents/5.jpg)
+![](/Documents/9.jpg)
 
 ---
 
 ### Schematic: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.pdf "Download")
 
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/4.jpg)
+![](/Documents/4.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ### 3D Model:
 
-![](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.jpg)
+![](/Documents/multi_controller.jpg)
 
 - [Bay](https://github.com/drcyberg/Multi_Controller_V1/blob/master/stl/multi_controller.stl "Bay")
 
