@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
-url: https://drcyberg.github.io/Multi_Controller_V1/
-baseurl: /Multi_Controller_V1
+title: Multi Controller V1.0
+description: They contain an LCD display that is 20 characters wide and 2 lines high surrounded by 2 buttons labeled Fan+, Fan- controlls with LED indicator and Buzzer, and controlls RGB Leds Strip.
+show_downloads: false
