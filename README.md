@@ -2,7 +2,7 @@
 
 ---
 
-### Description:
+## Description:
 
 It can display: Everest stats, Speedfan stats, MBM stats (your CPU temp, fan/cooler speed, etc), BBC World News (or any other RSS feed!), WinAmp stats (currently playing tracks title, length, position, etc), Network stats (speed, total bytes, etc), CPU Speed, Disk available/free, memory usage, Email details, game stats, and many more...
 Grabs information from the kernel and some subsystems and displays it on an external liquid crystal display.
@@ -11,7 +11,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Specifications:
+## Specifications:
 
 - Bars can be linear or logarithmic
 - Can display user-defined icons, and these icons can even be animated
@@ -34,7 +34,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Extra Additionals:
+## Extra Additionals:
 
 - RGB Led Strip controller (SMD 2835 RGB; 12V/1,5A)
 - PC 2 Fan controller (PWM 50% or 100%; 12V/1,5A)
@@ -51,7 +51,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Samples:
+## Samples:
 
 ![](/Documents/1.jpg)
 ![](/Documents/2.jpg)
@@ -64,20 +64,20 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Schematic: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.pdf "Download")
+## Schematic: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.pdf "Download")
 
 ![](/Documents/4.jpg)
 
 ---
 
-### Firmwares:
+## Firmwares:
 
 - [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller.hex "Firmware") (Without Bootloader)
 - [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller_with_bootloader.hex "Firmware") (With Bootloader)
 
 ---
 
-### Softwares:
+## Softwares:
 
 - [LCD Smartie](http://lcdsmartie.sourceforge.net/ "LCD Smartie") (Windows)
 - [LCDproc](http://lcdproc.omnipotent.net/ "LCDproc") (Linux)
@@ -85,28 +85,28 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### How to flash:
+## How to flash:
 
 - [Guide](https://www.arduino.cc/en/Guide/ArduinoISP "Guide")
 - [Tutorial](https://www.arduino.cc/en/tutorial/arduinoISP "Tutorial")
 
 ---
 
-### BOM (Bill Of Materials): [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.xlsx "Link") or [View](https://sheet.zoho.eu/sheet/published.do?rid=42dfb586242982b99419fac733a2e80385b53 "View")
+## BOM (Bill Of Materials): [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.xlsx "Link") or [View](https://sheet.zoho.eu/sheet/published.do?rid=42dfb586242982b99419fac733a2e80385b53 "View")
 
 ---
 
-### PCB Gerber file: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Manufacturing/multi_controller.zip "Download")
+## PCB Gerber file: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Manufacturing/multi_controller.zip "Download")
 
 ---
 
-### 3D Model:
+## 3D Model:
 
 ![](/Documents/multi_controller.jpg)
 
 - [Bay](https://github.com/drcyberg/Multi_Controller_V1/blob/master/stl/multi_controller.stl "Bay")
 
-### Required other parts:
+## Required other parts:
 
 - 8x M3 4mm screw
 - 8x M3 4mm insert nut
@@ -115,12 +115,12 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-### Thingiverse: [Link](https://www.thingiverse.com/thing:4270109 "Link")
+## Thingiverse: [Link](https://www.thingiverse.com/thing:4270109 "Link")
 
 ---
 
-### If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
+## If you want to support me: [Donate](https://www.paypal.me/Kunee82 "Donate")
 
 ---
 
-### Have a nice day!
+## Have a nice day!
