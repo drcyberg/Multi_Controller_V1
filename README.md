@@ -86,7 +86,7 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-## BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.jpg "View")
+## BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/mc_bom.html "View")
 
 ---
 
