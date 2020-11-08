@@ -64,12 +64,6 @@ The Multi Controller V1 modules are connected to the PC using a USB connection g
 
 ---
 
-## Schematic: [Download](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Documents/multi_controller.pdf "Download")
-
-![](/Documents/4.jpg)
-
----
-
 ## Firmwares:
 
 - [Without Bootloader](https://github.com/drcyberg/Multi_Controller_V1/blob/master/Firmwares/multi_controller.hex "Without Bootloader") (Development users)
